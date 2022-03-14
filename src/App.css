@@ -37,6 +37,11 @@
   width: 80%;
   margin: 1rem 0;
 }
+
+:hover.reservation-card-container{
+  cursor: pointer;
+}
+
 .reservation-input-container {
   width: 80%;
   padding: 0.5rem 1rem;
